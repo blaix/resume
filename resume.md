@@ -1,3 +1,5 @@
+# Justin Blake
+
 <justin@hentzia.com>
 
 Lately I've been specializing in **object oriented programming** using **ruby**
