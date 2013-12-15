@@ -9,9 +9,9 @@ challenging projects that push my limits.
 
 ## Experience
 
-I've provided consulting and development services for projects ranging in
-length from a few months to a few years, both independently and as part of a
-team for many types of clients:
+Since 2001, I've provided consulting and development services since for
+projects ranging in length from a few months to a few years, both independently
+and as part of a team for many types of clients:
 
 * Startups like [Wantful](https://wantful.com/)
 * Non-profits like [InCharge Education Foundation](http://www.incharge.org/foundation)
