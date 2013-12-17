@@ -9,7 +9,7 @@ challenging projects that push my limits.
 
 ## Experience
 
-Since 2001, I've provided consulting and development services since for
+Since 2001, I've provided consulting and development services for
 projects ranging in length from a few months to a few years, both independently
 and as part of a team for many types of clients:
 
